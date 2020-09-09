@@ -1,0 +1,17 @@
+__pycache__/
+**.swp
+
+.idea/
+*.iml
+
+.mypy_cache/
+
+.ipynb_checkpoints/
+
+.vscode/
+
+*.db
+*.log
+models_saved/
+eval_result/
+logs/
